@@ -9,8 +9,7 @@
 
 ### **About Me**
 **Front-End React Developer | Tailwind CSS Enthusiast**  
-I am a Front-End Developer specializing in React and Tailwind CSS, with a background in mathematics and machine intelligence. I bring strong analytical skills and a passion for building dynamic, user-centric web applications. Having completed the ALX Front-End Developer program, I am adept at creating responsive, efficient, and visually appealing websites. My proficiency with modern development tools like Vite and Formik, combined with a solid foundation in problem-solving, makes me a valuable asset for any team looking to enhance their digital presence.
-
+Front-End Developer specializing in React and Tailwind CSS, with a background in mathematics and machine intelligence. Skilled in creating responsive, user-focused web applications using modern tools like Vite and Formik. Currently expanding expertise to the MERN stack
 ---
 
 ### **Work Experience**
